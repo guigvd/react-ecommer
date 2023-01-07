@@ -2,6 +2,7 @@
 
 - Description:
 
+This project
 I built an ecommerce website using React, and for styling I used Material-UI. I used Redux toolkit to manage the state, and Formik for form validation.
 On the backend, I used Strapi as a Content Management Service to save time on implementation and reduce the effort needed to build an API.
 
