@@ -1,4 +1,4 @@
-<h1 align="center">ECOMER</h1> 
+<h1 align="center">ECOMMER</h1> 
 
 - Description:
 
