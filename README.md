@@ -1,4 +1,4 @@
-<h1 align="center">EVOGYM</h1> 
+<h1 align="center">ECOMER</h1> 
 
 - Description:
 
@@ -36,6 +36,9 @@ Study in practice.
 
 ## Backend
 - Strapi
+
+# Future updates
+- Deploy of all aplication and add Stripe for payment.
 
 # Getting Started with Create React App
 
